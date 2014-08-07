@@ -25,7 +25,7 @@ We sincerely invite you to join us!
   1. On Development Tools
     1. Classification of Development Tools
     1. References
-1. [Select-an-open-source-project](Select-an-open-source-project.md)
+1. [Select an Open-source Project](Select-an-open-source-project.md)
   1. Where to Find Open-source Projects
   1. What Kind of Open-source Projects are Suitable for Beginners
   1. Highly Recommended Open-source Projects
@@ -43,7 +43,7 @@ We sincerely invite you to join us!
     1. For JavaScript users
     1. For C/C++ users
   1. Overcome the Problems You May Encounter
-1. [Understanding-the-source-code](Understanding-the-source-code.md)
+1. [Understanding the Source Code](Understanding-the-source-code.md)
   1. Static Understanding
     1. Directory Structure
     1. Package Name and File Name
@@ -65,7 +65,7 @@ We sincerely invite you to join us!
     1. demo/example
     1. Unit Testing
   1. Knowing How
-1. [Modify-the-open-source-project](Modify-the-open-source-project.md)
+1. [Modify the Open Source Project](Modify-the-open-source-project.md)
   1. Changing from Requirements
   1. Finding Codes for Reference by following clues
   1. Making bigger changes -- Structural Adjustment
@@ -76,12 +76,12 @@ We sincerely invite you to join us!
   1. Surrounding Code (Demo/Extension/Subproject)
   1. Promotion
   1. Other Odd Jobs
-1. [Join-the-group](Join-the-group.md)
+1. [Join the Group](Join-the-group.md)
   1. Partners
   1. Organization Structure
   1. Organization of Open-source Project
   1. Basic Etiquette
-1. [Create-an-open-source-project](Create-an-open-source-project.md)
-1. [Read-more](Read-more.md)
+1. [Create an Open Source Project](Create-an-open-source-project.md)
+1. [Read More](Read-more.md)
 1. [Contributor](Contributor.md)
 1. [FAQ](FAQ.md)

@@ -152,7 +152,7 @@ LICENSE
   1. Organization of Open-source Project
   1. 基本礼仪
   1. Basic Etiquette
-1. [自己发起一个开源项目](Create-an-open-source-project.md)
-1. [延伸阅读](Read-more.md)
-1. [贡献者](Contributor.md)
-1. [开源问答](FAQ.md)
+1. [Create an Open Source Project](Create-an-open-source-project.md)
+1. [Read-more](Read-more.md)
+1. [Contributor](Contributor.md)
+1. [FAQ](FAQ.md)

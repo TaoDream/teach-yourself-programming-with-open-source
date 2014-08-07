@@ -1,8 +1,8 @@
-# Open document: learn software development with the help of open-source project
+Open document: learn software development with the help of open-source project
 
 We sincerely invite you to join us!
 
-LICENSE
+#LICENSE
 
 * The content in this repo is licensed CC-NC-BY-SA.
   * Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
@@ -13,11 +13,11 @@ LICENSE
 
 # Contents
 
-1. Before-start.md
+1. [Before start](Before-start.md)
   1. Target Audience
   1. Basic Requirements
   1. Something Need to know First
-1. Start.md
+1. [Start](Start.md)
   1. Several Main Methods of Learning Software Development
   1. Why Open-source is Helpful
   1. Choosing a Language
@@ -25,7 +25,7 @@ LICENSE
   1. On Development Tools
     1. Classification of Development Tools
     1. References
-1. Select-an-open-source-project.md
+1. [Select-an-open-source-project](Select-an-open-source-project.md)
   1. Where to Find Open-source Projects
   1. What Kind of Open-source Projects are Suitable for Beginners
   1. Highly Recommended Open-source Projects
@@ -43,7 +43,7 @@ LICENSE
     1. For JavaScript users
     1. For C/C++ users
   1. Overcome the Problems You May Encounter
-1. Understanding-the-source-code.md
+1. [Understanding-the-source-code](Understanding-the-source-code.md)
   1. Static Understanding
     1. Directory Structure
     1. Package Name and File Name
@@ -65,7 +65,7 @@ LICENSE
     1. demo/example
     1. Unit Testing
   1. Knowing How
-1. Modify-the-open-source-project.md
+1. [Modify-the-open-source-project](Modify-the-open-source-project.md)
   1. Changing from Requirements
   1. Finding Codes for Reference by following clues
   1. Making bigger changes -- Structural Adjustment
@@ -76,12 +76,12 @@ LICENSE
   1. Surrounding Code (Demo/Extension/Subproject)
   1. Promotion
   1. Other Odd Jobs
-1. Join-the-group.md
+1. [Join-the-group](Join-the-group.md)
   1. Partners
   1. Organization Structure
   1. Organization of Open-source Project
   1. Basic Etiquette
-1. Create-an-open-source-project.md
-1. Read-more.md
-1. Contributor.md
-1. FAQ.md
+1. [Create-an-open-source-project](Create-an-open-source-project.md)
+1. [Read-more](Read-more.md)
+1. [Contributor](Contributor.md)
+1. [FAQ](FAQ.md)
